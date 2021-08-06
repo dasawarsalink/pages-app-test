@@ -1,0 +1,2 @@
+(self.webpackChunkmainserv=self.webpackChunkmainserv||[]).push([[228],{3616:function(e,n,t){"use strict";t.r(n);var u=t(7294),l=t(4729);n.default=function(){return u.createElement("div",null,u.createElement(l.Z,null))}}}]);
+//# sourceMappingURL=component---src-pages-desa-surat-index-jsx-6913b67616865a5035ad.js.map
