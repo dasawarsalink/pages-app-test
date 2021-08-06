@@ -1,2 +1,0 @@
-(self.webpackChunkmainserv=self.webpackChunkmainserv||[]).push([[295],{3113:function(e,n,t){"use strict";t.r(n);var l=t(7294),r=t(4729);n.default=function(){return l.createElement("div",null,l.createElement(r.Z,null),l.createElement("form",{style:{padding:"1em"}}))}}}]);
-//# sourceMappingURL=component---src-pages-desa-komplain-index-jsx-dc08f6e7e1a56c156ef0.js.map
