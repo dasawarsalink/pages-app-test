@@ -1,2 +1,0 @@
-(self.webpackChunkmainserv=self.webpackChunkmainserv||[]).push([[242],{5042:function(e,n,t){"use strict";t.r(n);var u=t(7294),l=t(4729);n.default=function(){return u.createElement("div",null,u.createElement(l.Z,null))}}}]);
-//# sourceMappingURL=component---src-pages-pasar-index-jsx-a28ee475502dc9a0bcce.js.map
