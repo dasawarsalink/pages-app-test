@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmainagen=self.webpackChunkmainagen||[]).push([[8066],{7917:function(e,n,a){a.r(n);var t=a(7378),u=a(5213);n.default=function(){return t.createElement("div",null,t.createElement(u.Z,null))}}}]);
-//# sourceMappingURL=component---src-pages-pasar-toko-jsx-76f40a76c05e6b28f80c.js.map
